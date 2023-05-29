@@ -1,0 +1,7 @@
+font-family: 'Inter', sans-serif;
+font-family: 'Lato', sans-serif;
+font-family: 'MonteCarlo', cursive;
+font-family: 'Parisienne', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+font-family: 'Updock', cursive;
